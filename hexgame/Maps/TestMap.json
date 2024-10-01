@@ -1,0 +1,4864 @@
+{
+    "width": 20,
+    "height": 20,
+    "hexes": [
+        {
+            "x": 0,
+            "y": 0,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "terrain_type": "Hills",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 11,
+            "y": 0,
+            "terrain_type": "Mountains",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 12,
+            "y": 0,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 13,
+            "y": 0,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 14,
+            "y": 0,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 15,
+            "y": 0,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 16,
+            "y": 0,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 17,
+            "y": 0,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 18,
+            "y": 0,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 19,
+            "y": 0,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 8,
+            "y": 1,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 9,
+            "y": 1,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 10,
+            "y": 1,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 11,
+            "y": 1,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 12,
+            "y": 1,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 13,
+            "y": 1,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 14,
+            "y": 1,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 15,
+            "y": 1,
+            "terrain_type": "Grasslands",
+            "structure_type": "City|1",
+            "units": [
+                "Garrison|1|0"
+            ],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 16,
+            "y": 1,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 17,
+            "y": 1,
+            "terrain_type": "Grasslands",
+            "structure_type": "Farm|1",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 18,
+            "y": 1,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 19,
+            "y": 1,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "terrain_type": "Hills",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 5,
+            "y": 2,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 6,
+            "y": 2,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 7,
+            "y": 2,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 8,
+            "y": 2,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 9,
+            "y": 2,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 10,
+            "y": 2,
+            "terrain_type": "Grasslands",
+            "structure_type": "City|1",
+            "units": [
+                "Garrison|1|0"
+            ],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 11,
+            "y": 2,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 12,
+            "y": 2,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 13,
+            "y": 2,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 14,
+            "y": 2,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 15,
+            "y": 2,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 16,
+            "y": 2,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 17,
+            "y": 2,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 18,
+            "y": 2,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 19,
+            "y": 2,
+            "terrain_type": "Grasslands",
+            "structure_type": "Farm|1",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "terrain_type": "Hills",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "terrain_type": "Hills",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 4,
+            "y": 3,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 5,
+            "y": 3,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 6,
+            "y": 3,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 7,
+            "y": 3,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 8,
+            "y": 3,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 9,
+            "y": 3,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 10,
+            "y": 3,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 11,
+            "y": 3,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 12,
+            "y": 3,
+            "terrain_type": "Grasslands",
+            "structure_type": "Farm|1",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 13,
+            "y": 3,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 14,
+            "y": 3,
+            "terrain_type": "Hills",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 15,
+            "y": 3,
+            "terrain_type": "Grasslands",
+            "structure_type": "Farm|1",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 16,
+            "y": 3,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 17,
+            "y": 3,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 18,
+            "y": 3,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 19,
+            "y": 3,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "terrain_type": "Hills",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "terrain_type": "Hills",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 4,
+            "y": 4,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 5,
+            "y": 4,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 6,
+            "y": 4,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 7,
+            "y": 4,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 8,
+            "y": 4,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 9,
+            "y": 4,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 10,
+            "y": 4,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [
+                "Cavalry|1|0",
+                "Cavalry|1|0",
+                "Cavalry|1|0",
+                "Cavalry|1|0",
+                "Phalanx|1|0"
+            ],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 11,
+            "y": 4,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 12,
+            "y": 4,
+            "terrain_type": "Mountains",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 13,
+            "y": 4,
+            "terrain_type": "Hills",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 14,
+            "y": 4,
+            "terrain_type": "Mountains",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 15,
+            "y": 4,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 16,
+            "y": 4,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 17,
+            "y": 4,
+            "terrain_type": "Grasslands",
+            "structure_type": "City|1",
+            "units": [
+                "Garrison|1|0"
+            ],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 18,
+            "y": 4,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 19,
+            "y": 4,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 3,
+            "y": 5,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 4,
+            "y": 5,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 5,
+            "y": 5,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 6,
+            "y": 5,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 7,
+            "y": 5,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 8,
+            "y": 5,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 9,
+            "y": 5,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 10,
+            "y": 5,
+            "terrain_type": "Grasslands",
+            "structure_type": "Fortress|1",
+            "units": [
+                "Phalanx|1|0",
+                "Phalanx|1|0"
+            ],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 11,
+            "y": 5,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 12,
+            "y": 5,
+            "terrain_type": "Mountains",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 13,
+            "y": 5,
+            "terrain_type": "Mountains",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 14,
+            "y": 5,
+            "terrain_type": "Hills",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 15,
+            "y": 5,
+            "terrain_type": "Hills",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 16,
+            "y": 5,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 17,
+            "y": 5,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 18,
+            "y": 5,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 19,
+            "y": 5,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 4,
+            "y": 6,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 5,
+            "y": 6,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 6,
+            "y": 6,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 7,
+            "y": 6,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 8,
+            "y": 6,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 9,
+            "y": 6,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 10,
+            "y": 6,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 11,
+            "y": 6,
+            "terrain_type": "Hills",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 12,
+            "y": 6,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 13,
+            "y": 6,
+            "terrain_type": "Hills",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 14,
+            "y": 6,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 15,
+            "y": 6,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 16,
+            "y": 6,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 17,
+            "y": 6,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [
+                "Phalanx|1|0",
+                "Phalanx|1|0",
+                "Phalanx|1|0",
+                "Cavalry|1|0",
+                "Cavalry|1|0",
+                "Archer|1|0"
+            ],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 18,
+            "y": 6,
+            "terrain_type": "Grasslands",
+            "structure_type": "Farm|1",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 19,
+            "y": 6,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 3,
+            "y": 7,
+            "terrain_type": "Forest",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 4,
+            "y": 7,
+            "terrain_type": "Forest",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 5,
+            "y": 7,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 6,
+            "y": 7,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 7,
+            "y": 7,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 8,
+            "y": 7,
+            "terrain_type": "Forest",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 9,
+            "y": 7,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 10,
+            "y": 7,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 11,
+            "y": 7,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 12,
+            "y": 7,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 13,
+            "y": 7,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 14,
+            "y": 7,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 15,
+            "y": 7,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 16,
+            "y": 7,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 17,
+            "y": 7,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 18,
+            "y": 7,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 19,
+            "y": 7,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 1,
+            "y": 8,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 2,
+            "y": 8,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 3,
+            "y": 8,
+            "terrain_type": "Hills",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 4,
+            "y": 8,
+            "terrain_type": "Mountains",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 5,
+            "y": 8,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 6,
+            "y": 8,
+            "terrain_type": "Hills",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 7,
+            "y": 8,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 8,
+            "y": 8,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 9,
+            "y": 8,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 10,
+            "y": 8,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 11,
+            "y": 8,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 12,
+            "y": 8,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 13,
+            "y": 8,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 14,
+            "y": 8,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 15,
+            "y": 8,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 16,
+            "y": 8,
+            "terrain_type": "Grasslands",
+            "structure_type": "Fortress|1",
+            "units": [
+                "Phalanx|1|0",
+                "Phalanx|1|0"
+            ],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 17,
+            "y": 8,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [
+                "Phalanx|1|0",
+                "Phalanx|1|0",
+                "Phalanx|1|0",
+                "Phalanx|1|0",
+                "Archer|1|0",
+                "Archer|1|0"
+            ],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 18,
+            "y": 8,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 19,
+            "y": 8,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 1,
+            "y": 9,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 2,
+            "y": 9,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 3,
+            "y": 9,
+            "terrain_type": "Hills",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 4,
+            "y": 9,
+            "terrain_type": "Hills",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 5,
+            "y": 9,
+            "terrain_type": "Mountains",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 6,
+            "y": 9,
+            "terrain_type": "Mountains",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 7,
+            "y": 9,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 8,
+            "y": 9,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 9,
+            "y": 9,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 10,
+            "y": 9,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 11,
+            "y": 9,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 12,
+            "y": 9,
+            "terrain_type": "Hills",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 13,
+            "y": 9,
+            "terrain_type": "Hills",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 14,
+            "y": 9,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 15,
+            "y": 9,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 16,
+            "y": 9,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 17,
+            "y": 9,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 18,
+            "y": 9,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 19,
+            "y": 9,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [
+                "Cavalry|1|0",
+                "Cavalry|1|0",
+                "Cavalry|1|0",
+                "Cavalry|1|0",
+                "Cavalry|1|0",
+                "Cavalry|1|0"
+            ],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 0,
+            "y": 10,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 1,
+            "y": 10,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 2,
+            "y": 10,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 3,
+            "y": 10,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 4,
+            "y": 10,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 5,
+            "y": 10,
+            "terrain_type": "Mountains",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 6,
+            "y": 10,
+            "terrain_type": "Mountains",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 7,
+            "y": 10,
+            "terrain_type": "Hills",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 8,
+            "y": 10,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 9,
+            "y": 10,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 10,
+            "y": 10,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 11,
+            "y": 10,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 12,
+            "y": 10,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 13,
+            "y": 10,
+            "terrain_type": "Hills",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 14,
+            "y": 10,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 15,
+            "y": 10,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 16,
+            "y": 10,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 17,
+            "y": 10,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 18,
+            "y": 10,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 19,
+            "y": 10,
+            "terrain_type": "Grasslands",
+            "structure_type": "Fortress|1",
+            "units": [
+                "Phalanx|1|0",
+                "Phalanx|1|0"
+            ],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 0,
+            "y": 11,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 1,
+            "y": 11,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 2,
+            "y": 11,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 3,
+            "y": 11,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 4,
+            "y": 11,
+            "terrain_type": "Mountains",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 5,
+            "y": 11,
+            "terrain_type": "Mountains",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 6,
+            "y": 11,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 7,
+            "y": 11,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 8,
+            "y": 11,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 9,
+            "y": 11,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 10,
+            "y": 11,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 11,
+            "y": 11,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 12,
+            "y": 11,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 13,
+            "y": 11,
+            "terrain_type": "Hills",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 14,
+            "y": 11,
+            "terrain_type": "Hills",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 15,
+            "y": 11,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 16,
+            "y": 11,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 17,
+            "y": 11,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 18,
+            "y": 11,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 19,
+            "y": 11,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                0
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 0,
+            "y": 12,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 1,
+            "y": 12,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 2,
+            "y": 12,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 3,
+            "y": 12,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 4,
+            "y": 12,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 5,
+            "y": 12,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 6,
+            "y": 12,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 7,
+            "y": 12,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 8,
+            "y": 12,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 9,
+            "y": 12,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 10,
+            "y": 12,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 11,
+            "y": 12,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 12,
+            "y": 12,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 13,
+            "y": 12,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 14,
+            "y": 12,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 15,
+            "y": 12,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 16,
+            "y": 12,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 17,
+            "y": 12,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 18,
+            "y": 12,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 19,
+            "y": 12,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 0,
+            "y": 13,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 1,
+            "y": 13,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 2,
+            "y": 13,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 3,
+            "y": 13,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 4,
+            "y": 13,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 5,
+            "y": 13,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 6,
+            "y": 13,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 7,
+            "y": 13,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 8,
+            "y": 13,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 9,
+            "y": 13,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 10,
+            "y": 13,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 11,
+            "y": 13,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 12,
+            "y": 13,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 13,
+            "y": 13,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 14,
+            "y": 13,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 15,
+            "y": 13,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 16,
+            "y": 13,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 17,
+            "y": 13,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 18,
+            "y": 13,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 19,
+            "y": 13,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 0,
+            "y": 14,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 1,
+            "y": 14,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 2,
+            "y": 14,
+            "terrain_type": "Forest",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                0,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 3,
+            "y": 14,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                0,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 4,
+            "y": 14,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                0,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 5,
+            "y": 14,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 6,
+            "y": 14,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                0,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 7,
+            "y": 14,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                0,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 8,
+            "y": 14,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                0,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 9,
+            "y": 14,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 10,
+            "y": 14,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 11,
+            "y": 14,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 12,
+            "y": 14,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 13,
+            "y": 14,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 14,
+            "y": 14,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 15,
+            "y": 14,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 16,
+            "y": 14,
+            "terrain_type": "Hills",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 17,
+            "y": 14,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 18,
+            "y": 14,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 19,
+            "y": 14,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 0,
+            "y": 15,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                0,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 1,
+            "y": 15,
+            "terrain_type": "Forest",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                0,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 2,
+            "y": 15,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                0,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 3,
+            "y": 15,
+            "terrain_type": "Forest",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                0,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 4,
+            "y": 15,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                0,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 5,
+            "y": 15,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                0,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 6,
+            "y": 15,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                0,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 7,
+            "y": 15,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                0,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 8,
+            "y": 15,
+            "terrain_type": "Water",
+            "structure_type": "Port|0",
+            "units": [],
+            "fog": [
+                0,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 9,
+            "y": 15,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                0,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 10,
+            "y": 15,
+            "terrain_type": "Hills",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 11,
+            "y": 15,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 12,
+            "y": 15,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 13,
+            "y": 15,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 14,
+            "y": 15,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 15,
+            "y": 15,
+            "terrain_type": "Hills",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 16,
+            "y": 15,
+            "terrain_type": "Hills",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 17,
+            "y": 15,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 18,
+            "y": 15,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 19,
+            "y": 15,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 0,
+            "y": 16,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                0,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 1,
+            "y": 16,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                0,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 2,
+            "y": 16,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                0,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 3,
+            "y": 16,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                0,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 4,
+            "y": 16,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                0,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 5,
+            "y": 16,
+            "terrain_type": "Grasslands",
+            "structure_type": "Farm|0",
+            "units": [],
+            "fog": [
+                0,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 6,
+            "y": 16,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                0,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 7,
+            "y": 16,
+            "terrain_type": "Grasslands",
+            "structure_type": "City|0",
+            "units": [
+                "Garrison|0|0"
+            ],
+            "fog": [
+                0,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 8,
+            "y": 16,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                0,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 9,
+            "y": 16,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                0,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 10,
+            "y": 16,
+            "terrain_type": "Hills",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 11,
+            "y": 16,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 12,
+            "y": 16,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 13,
+            "y": 16,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 14,
+            "y": 16,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 15,
+            "y": 16,
+            "terrain_type": "Hills",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 16,
+            "y": 16,
+            "terrain_type": "Hills",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 17,
+            "y": 16,
+            "terrain_type": "Hills",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 18,
+            "y": 16,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 19,
+            "y": 16,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 0,
+            "y": 17,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                0,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 1,
+            "y": 17,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                0,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 2,
+            "y": 17,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                0,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 3,
+            "y": 17,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [
+                "Phalanx|0|2",
+                "Phalanx|0|2",
+                "Phalanx|0|2",
+                "Phalanx|0|2",
+                "Cavalry|0|4",
+                "Archer|0|2"
+            ],
+            "fog": [
+                0,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 4,
+            "y": 17,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                0,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 5,
+            "y": 17,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                0,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 6,
+            "y": 17,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                0,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 7,
+            "y": 17,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                0,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 8,
+            "y": 17,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                0,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 9,
+            "y": 17,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                0,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 10,
+            "y": 17,
+            "terrain_type": "Hills",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 11,
+            "y": 17,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 12,
+            "y": 17,
+            "terrain_type": "Forest",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 13,
+            "y": 17,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 14,
+            "y": 17,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 15,
+            "y": 17,
+            "terrain_type": "Hills",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 16,
+            "y": 17,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 17,
+            "y": 17,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 18,
+            "y": 17,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 19,
+            "y": 17,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 0,
+            "y": 18,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                0,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 1,
+            "y": 18,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                0,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 2,
+            "y": 18,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                0,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 3,
+            "y": 18,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                0,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 4,
+            "y": 18,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                0,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 5,
+            "y": 18,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                0,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 6,
+            "y": 18,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                0,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 7,
+            "y": 18,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                0,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 8,
+            "y": 18,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 9,
+            "y": 18,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 10,
+            "y": 18,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 11,
+            "y": 18,
+            "terrain_type": "Forest",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 12,
+            "y": 18,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 13,
+            "y": 18,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 14,
+            "y": 18,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 15,
+            "y": 18,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 16,
+            "y": 18,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 17,
+            "y": 18,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 18,
+            "y": 18,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 19,
+            "y": 18,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 0,
+            "y": 19,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 1,
+            "y": 19,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                0,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 2,
+            "y": 19,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                0,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 3,
+            "y": 19,
+            "terrain_type": "Grasslands",
+            "structure_type": "City|0",
+            "units": [
+                "Garrison|0|0"
+            ],
+            "fog": [
+                0,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 4,
+            "y": 19,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                0,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 5,
+            "y": 19,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                0,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 6,
+            "y": 19,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 7,
+            "y": 19,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 8,
+            "y": 19,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 9,
+            "y": 19,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 10,
+            "y": 19,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 11,
+            "y": 19,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 12,
+            "y": 19,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 13,
+            "y": 19,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 14,
+            "y": 19,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 15,
+            "y": 19,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 16,
+            "y": 19,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 17,
+            "y": 19,
+            "terrain_type": "Water",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 18,
+            "y": 19,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        },
+        {
+            "x": 19,
+            "y": 19,
+            "terrain_type": "Grasslands",
+            "structure_type": "None",
+            "units": [],
+            "fog": [
+                2,
+                2
+            ],
+            "road_connections": []
+        }
+    ],
+    "player_gold": [
+        0,
+        0
+    ],
+    "current_turn": 0
+}
